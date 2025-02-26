@@ -19,5 +19,21 @@
   - PostgreSQL
   - MongoDB
 
+## 🌟 项目经历
+- **[电子商务平台](https://github.com/giangbin84/ecommerce-platform)**：
+  - **描述**：一个功能全面的电子商务网站，用户可以浏览商品、下单和支付。
+  - **技术栈**：React, Node.js, Express, MongoDB。
+  - **亮点**：实现了购物车功能和用户评价系统，提升了用户体验。
+
+- **[社交网络应用](https://github.com/giangbin84/social-network)**：
+  - **描述**：一个社交网络平台，用户可以创建个人资料、发布动态、添加好友。
+  - **技术栈**：Vue.js, Spring Boot, PostgreSQL。
+  - **亮点**：支持实时通知和消息功能，增强用户互动。
+
+- **[个人财务管理工具](https://github.com/giangbin84/finance-manager)**：
+  - **描述**：一个帮助用户跟踪和分析个人财务的应用，用户可以记录收入和支出。
+  - **技术栈**：JavaScript, HTML, CSS。
+  - **亮点**：提供数据可视化功能，用户可以生成财务报告和图表。
+
 
 
